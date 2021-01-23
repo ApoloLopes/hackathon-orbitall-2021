@@ -1,3 +1,7 @@
+![Projeto Customers](http://revistapress.com.br/wp-content/uploads/2018/12/Sem-t%C3%ADtulo19.png)
+
+By [Stefanini](https://stefanini.com/).
+
 # Desafio Final - Hackaton Orbitall Corp 2021
 
 ## Estória da Hackaton Orbitall Corp 2021
