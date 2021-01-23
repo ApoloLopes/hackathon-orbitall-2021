@@ -45,17 +45,15 @@ Boa sorte!
 Orbitall Corp Teams
 23/Janeiro/2021
 
-
-
-
-
 ## *** DICAS ****
 
 ### ** GIT **
+```sh
 $ git clone <branch>
 $ git add .
 $ git commit -m 'Seu comentário'
 $ git push origin <branch>
+```
 
 PS: Cuidado com o artefato oculto chamado .git, você tem que basear na sua repositória e não o que foi clonado!!!
 
