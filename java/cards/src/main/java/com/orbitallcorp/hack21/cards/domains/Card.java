@@ -13,6 +13,7 @@ import java.io.Serializable;
 @Getter
 @Setter
 public class Card implements Serializable {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -23,4 +24,5 @@ public class Card implements Serializable {
     private String motherName;
     private String address;
     private String city;
+
 }
